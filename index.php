@@ -113,7 +113,7 @@ include_once("connection.php");
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i>anhpnngcc19180@fpt.edu.vn</li>
+                <li><i class="fa fa-envelope"></i>tinhpcgcc19218@fpt.edu.vn</li>
                 <li>Toy Shop</li>
             </ul>
         </div>
@@ -140,7 +140,7 @@ include_once("connection.php");
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> anhpnngcc19180@fpt.edu.vn</li>
+                                <li><i class="fa fa-envelope"></i> tinhpcgcc19218@fpt.edu.vn</li>
                                 <li>Toy Shop</li>
                             </ul>
                         </div>

@@ -28,7 +28,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>0911 878 047</h5>
+                                <h5>0869342505</h5>
                                 <span>Support 24/7 time</span>
                             </div>
                         </div>
@@ -65,14 +65,14 @@
                     <div class="contact__widget">
                         <span class="icon_phone"></span>
                         <h4>Phone   </h4>
-                        <p>0911 878 047</p>
+                        <p>0869342505</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
                         <span class="icon_pin_alt"></span>
                         <h4>Address</h4>
-                        <p>160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</p>
+                        <p>307 Nguyen Van Cu, An Khanh, Ninh Kieu, Can Tho, Vietnam</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
@@ -86,7 +86,7 @@
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
                         <h4>Email</h4>
-                        <p>anhpnngcc19180@fpt.edu.vn</p>
+                        <p>tinhpcgcc19218@fpt.edu.vn</p>
                     </div>
                 </div>
             </div>
